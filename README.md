@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mrshahid111
-- 👀 I’m interested in coding 
+- 👋 Hi, I’m Shahid Raza 
+- 👀 Internet And Coding is my passion 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on a real time chat application project 
-- 📫 hello.shahid@gmail.com
+- 📫 search on google >>>>>>  JOke
+- 
 
 <!---
 mrshahid111/mrshahid111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
