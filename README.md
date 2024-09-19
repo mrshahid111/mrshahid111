@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shahid Raza 
 - 👀 Internet And Coding is my passion 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on a real time chat application project 
 - 📫 search on google >>>>>>  JOke
 - 
